@@ -6,4 +6,7 @@
   sections:
     - file: S1
     - file: S2
+    - file: S3
+    - file: S4
+    - file: S5
     - file: WSC
